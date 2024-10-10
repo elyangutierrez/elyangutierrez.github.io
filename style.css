@@ -53,8 +53,9 @@ a {
 
 .myBookPal-section {
     display: flex;
-    justify-content: space-between;
-    gap: 30px;
+    /* justify-content: space-between; */
+    justify-content: left;
+    gap: 20px;
 }
 
 .myBookPal-image {
@@ -65,8 +66,8 @@ a {
 
 .ExploreIt-section {
     display: flex;
-    justify-content: space-between;
-    gap: 30px;
+    justify-content: left;
+    gap: 20px;
 }
 
 .ExploreIt-image {
