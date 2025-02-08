@@ -77,6 +77,18 @@ a {
     padding-top: 20px;
 }
 
+.Serenify-section {
+    display: flex;
+    justify-content: left;
+    gap: 20px;
+}
+
+.Serenify-image {
+    width: 150px;
+    height: 150px;
+    padding-top: 20px;
+}
+
 button {
     border: 0;
     outline: 0;
