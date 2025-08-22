@@ -89,6 +89,42 @@ a {
     padding-top: 20px;
 }
 
+.Mapory-section {
+    display: flex;
+    justify-content: left;
+    gap: 20px;
+}
+
+.Mapory-image {
+    width: 150px;
+    height: 150px;
+    padding-top: 20px;
+}
+
+.Letha-section {
+    display: flex;
+    justify-content: left;
+    gap: 20px;
+}
+
+.Letha-image {
+    width: 150px;
+    height: 150px;
+    padding-top: 20px;
+}
+
+.Deckly-section {
+    display: flex;
+    justify-content: left;
+    gap: 20px;
+}
+
+.Deckly-image {
+    width: 150px;
+    height: 150px;
+    padding-top: 20px;
+}
+
 button {
     border: 0;
     outline: 0;
